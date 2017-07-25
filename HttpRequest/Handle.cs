@@ -12,7 +12,6 @@ namespace HttpRequest
     {
         public string GetData(string url)
         {
-            // https://api.nanopool.org/v1/eth/balance/0xe1a4dd6599050136c1db17975a9832426617dfe8
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
             try
             {

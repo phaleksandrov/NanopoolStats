@@ -5,7 +5,6 @@ C:\Users\Filip\Source\Repos\NanopoolStats\HttpRequest\bin\Debug\HttpRequest.exe.
 C:\Users\Filip\Source\Repos\NanopoolStats\HttpRequest\bin\Debug\HttpRequest.application
 C:\Users\Filip\Source\Repos\NanopoolStats\HttpRequest\bin\Debug\HttpRequest.exe
 C:\Users\Filip\Source\Repos\NanopoolStats\HttpRequest\bin\Debug\HttpRequest.pdb
-C:\Users\Filip\Source\Repos\NanopoolStats\HttpRequest\obj\Debug\NanopoolStats.csprojResolveAssemblyReference.cache
 C:\Users\Filip\Source\Repos\NanopoolStats\HttpRequest\obj\Debug\HttpRequest.Form1.resources
 C:\Users\Filip\Source\Repos\NanopoolStats\HttpRequest\obj\Debug\HttpRequest.Properties.Resources.resources
 C:\Users\Filip\Source\Repos\NanopoolStats\HttpRequest\obj\Debug\NanopoolStats.csproj.GenerateResource.Cache
