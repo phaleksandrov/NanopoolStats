@@ -1,0 +1,25 @@
+C:\Users\fasenov\documents\visual studio 2015\Projects\HttpRequest\HttpRequest\bin\Release\HttpRequest.exe.config
+C:\Users\fasenov\documents\visual studio 2015\Projects\HttpRequest\HttpRequest\bin\Release\HttpRequest.exe
+C:\Users\fasenov\documents\visual studio 2015\Projects\HttpRequest\HttpRequest\bin\Release\HttpRequest.pdb
+C:\Users\fasenov\documents\visual studio 2015\Projects\HttpRequest\HttpRequest\obj\Release\HttpRequest.Form1.resources
+C:\Users\fasenov\documents\visual studio 2015\Projects\HttpRequest\HttpRequest\obj\Release\HttpRequest.Properties.Resources.resources
+C:\Users\fasenov\documents\visual studio 2015\Projects\HttpRequest\HttpRequest\obj\Release\HttpRequest.csproj.GenerateResource.Cache
+C:\Users\fasenov\documents\visual studio 2015\Projects\HttpRequest\HttpRequest\obj\Release\HttpRequest.exe
+C:\Users\fasenov\documents\visual studio 2015\Projects\HttpRequest\HttpRequest\obj\Release\HttpRequest.pdb
+C:\Users\fasenov\documents\visual studio 2015\Projects\HttpRequest\HttpRequest\bin\Release\HttpRequest.exe.manifest
+C:\Users\fasenov\documents\visual studio 2015\Projects\HttpRequest\HttpRequest\bin\Release\HttpRequest.application
+C:\Users\fasenov\documents\visual studio 2015\Projects\HttpRequest\HttpRequest\obj\Release\HttpRequest.exe.manifest
+C:\Users\fasenov\documents\visual studio 2015\Projects\HttpRequest\HttpRequest\obj\Release\HttpRequest.application
+C:\Users\fasenov\documents\visual studio 2015\Projects\HttpRequest\HttpRequest\obj\Release\HttpRequest.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Desktop\HttpRequest\HttpRequest\bin\Release\HttpRequest.exe.config
+C:\Users\Filip\Desktop\HttpRequest\HttpRequest\obj\Release\HttpRequest.exe
+C:\Users\Filip\Desktop\HttpRequest\HttpRequest\obj\Release\HttpRequest.pdb
+C:\Users\Filip\Desktop\HttpRequest\HttpRequest\bin\Release\HttpRequest.exe.manifest
+C:\Users\Filip\Desktop\HttpRequest\HttpRequest\bin\Release\HttpRequest.application
+C:\Users\Filip\Desktop\HttpRequest\HttpRequest\bin\Release\HttpRequest.exe
+C:\Users\Filip\Desktop\HttpRequest\HttpRequest\bin\Release\HttpRequest.pdb
+C:\Users\Filip\Desktop\HttpRequest\HttpRequest\obj\Release\HttpRequest.Form1.resources
+C:\Users\Filip\Desktop\HttpRequest\HttpRequest\obj\Release\HttpRequest.Properties.Resources.resources
+C:\Users\Filip\Desktop\HttpRequest\HttpRequest\obj\Release\HttpRequest.csproj.GenerateResource.Cache
+C:\Users\Filip\Desktop\HttpRequest\HttpRequest\obj\Release\HttpRequest.exe.manifest
+C:\Users\Filip\Desktop\HttpRequest\HttpRequest\obj\Release\HttpRequest.application

@@ -1,0 +1,3 @@
+C:\Users\Filip\Desktop\HttpRequest\HttpRequest\bin\Release\HttpRequest.exe.config
+C:\Users\Filip\Desktop\HttpRequest\HttpRequest\obj\Release\HttpRequest.exe
+C:\Users\Filip\Desktop\HttpRequest\HttpRequest\obj\Release\HttpRequest.pdb
