@@ -6,4 +6,4 @@ Statistics for nanopool:
     
 Ethereum address: 0xe1a4dd6599050136c1db17975a9832426617dfe8
 
-Bitcoin address: 1Mfzm5hpaWuByyHLFyFdYBaU4cwEVux4dF
+Bitcoin address: 14M5BH2eGLGLjDpgm4vu9iFfXe3rgg8E4b
