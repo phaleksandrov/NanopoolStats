@@ -5,4 +5,5 @@ Statistics for nanopool:
     I'm open for any suggestions :)
     
 Ethereum address: 0xe1a4dd6599050136c1db17975a9832426617dfe8
+
 Bitcoin address: 14M5BH2eGLGLjDpgm4vu9iFfXe3rgg8E4b
