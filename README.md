@@ -1,0 +1,2 @@
+# NanopoolStats
+Statistics for nanopool
